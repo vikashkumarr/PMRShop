@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PMR</string>
+    <string name="selected_service">You have selected Table Top Grinder for the Service.</string>
+    <string name="_9952218678"><u> 9952218678 </u> </string>
+    <string name="name">Name<font color='#8B0000'>*</font></string>
+    <string name="number">Number<font color='#8B0000'>*</font></string>
+    <string name="address">Address <font color='#8B0000'>*</font></string>
+    <string name="city">City <font color='#8B0000'>*</font></string>
+</resources>
